@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QR Link</string>
+
+    <string name="title_activity_playback">Playback</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="desc">Aperte para começar\na escanear</string>
+    <string name="texto_inicio">Toque na imagem para\ncomeçar a escanear!</string>
+</resources>
