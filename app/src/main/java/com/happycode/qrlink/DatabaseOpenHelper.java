@@ -11,7 +11,7 @@ import com.readystatesoftware.sqliteasset.SQLiteAssetHelper;
 
 public class DatabaseOpenHelper extends SQLiteAssetHelper {
     private static final String DATABASE_NAME = "paths.db";
-    private static final int DATABASE_VERSION = 4;
+    private static final int DATABASE_VERSION = 5;
 
 
     public DatabaseOpenHelper(Context context) {
