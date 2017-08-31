@@ -20,4 +20,9 @@
         <item name="android:background">@color/black_overlay</item>
     </style>
 
+    <style name="SampleAppsTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
 </resources>
