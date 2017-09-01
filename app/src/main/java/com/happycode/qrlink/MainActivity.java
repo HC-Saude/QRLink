@@ -17,6 +17,7 @@ import android.widget.Toast;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
 
+
 import java.io.File;
 import java.util.List;
 
@@ -93,10 +94,13 @@ public class MainActivity extends Activity  {
 
     public void logoClick(View v) {                                         //função do clique no logo
 
-        IntentIntegrator integrator = new IntentIntegrator(this);               //
-        integrator.setBeepEnabled(false);                                       //operações para inicializar e executar
-        integrator.setDesiredBarcodeFormats(IntentIntegrator.QR_CODE_TYPES);    //o IntentIntegrator que executa o scan
-        integrator.initiateScan();                                              //
+//        IntentIntegrator integrator = new IntentIntegrator(this);               //
+//        integrator.setBeepEnabled(false);                                       //operações para inicializar e executar
+//        integrator.setDesiredBarcodeFormats(IntentIntegrator.QR_CODE_TYPES);    //o IntentIntegrator que executa o scan
+//        integrator.initiateScan();                                              //
+
+        Intent i = new Intent(getApplicationContext(), ArActivity.class);
+        startActivity(i);
 
 
     }

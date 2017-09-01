@@ -6,4 +6,7 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="desc">Aperte para começar\na escanear</string>
     <string name="texto_inicio">Toque na imagem para\ncomeçar a escanear!</string>
+
+    <string name="vuforia_key">AZ5zuNr/////AAAAGSsShcEaE0pZvTrIV2H0WFNAIBnSHAcAJlP92ttKAYH+r8bTc6saOJs/af8RUPYD8qadwaVhc0U8HFj5KbdE/+wHi5DSlhBGgtrYQvINQC3ogWLN7OkNQhINU0noFtuAzQCd0qeNfkaIrO69azb1AIZ2vGuxMOzxwkr6fbOa7oHuj/Xk7A/jwk8EMckFSCAK1GQYkRXOkWIX2Qh9T3ZPY4I/b0DrlVSprnd3vtIzN6rIlDmVpOge8aMnOavUtl4uD8uvJpkV0wNyk+/AexQkXl68AeObMNKrErA7hVG0esRX+M0bNbjjx9qcIsrXl+dVeboMcGfefmnrdWU4g37rQM/PspOykLewott3SuCREwHQ</string>
+
 </resources>
